@@ -7,7 +7,7 @@
   :dependencies [[org.clojure/clojure "1.10.0"]
 
                  ;;dl4j
-                 [org.nd4j/nd4j-native "1.0.0-beta7"]
+                 [org.nd4j/nd4j-cuda-10.2 "1.0.0-beta7"]
                  [org.deeplearning4j/deeplearning4j-core "1.0.0-beta7"]
 
                  ;;logging
